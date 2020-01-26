@@ -1,2 +1,3 @@
 *.log
 Machinelearning-env/
+__pycache__/
