@@ -1,3 +1,7 @@
 *.log
 Machinelearning-env/
 __pycache__/
+
+MaskRCNN/venv/
+
+MaskRCNN/mask_rcnn_coco.h5
