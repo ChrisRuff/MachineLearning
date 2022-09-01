@@ -26,7 +26,7 @@ cryptography==2.8
 cupshelpers==1.0
 decorator==4.4.1
 defusedxml==0.6.0
-deluge==2.0.4.dev23
+deluge==2.1.0
 distlib==0.3.0
 distro==1.4.0
 docker==4.1.0
